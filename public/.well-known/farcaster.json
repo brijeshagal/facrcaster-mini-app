@@ -1,0 +1,14 @@
+{
+    "version": "next",
+    "imageUrl": "https://dtech.vision/frame-thumbnail.png",
+    "button": {
+      "title": "Learn Farcaster",
+      "action": {
+        "type": "launch_frame",
+        "name": "dTech - Farcaster Boutique",
+        "url": "https://dtech.vision/farcaster/",
+        "splashImageUrl": "https://dtech.vision/icon.png",
+        "splashBackgroundColor": "#f7f7f7"
+      }
+    }
+  }
