@@ -1,4 +1,5 @@
 {
+  "frame": {
     "version": "next",
     "imageUrl": "https://dtech.vision/frame-thumbnail.png",
     "button": {
@@ -12,3 +13,4 @@
       }
     }
   }
+}
