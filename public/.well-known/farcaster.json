@@ -6,7 +6,7 @@
       "action": {
         "type": "launch_frame",
         "name": "dTech - Farcaster Boutique",
-        "url": "https://dtech.vision/farcaster/",
+        "url": "https://facrcaster-mini-app.vercel.app/",
         "splashImageUrl": "https://dtech.vision/icon.png",
         "splashBackgroundColor": "#f7f7f7"
       }
