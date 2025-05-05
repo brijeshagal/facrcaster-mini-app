@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { sdk } from '@farcaster/frame-sdk'
- 
-await sdk.actions.ready();
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
